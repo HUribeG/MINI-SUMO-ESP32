@@ -1,0 +1,15 @@
+A0-A4 - JS40F
+
+PWMB - D10
+BIN2 - D12
+BIN1 - D11
+STBY - D6
+AIN2 - D8
+AIN1 - D7
+PWMA - D9 
+
+QREL - D2
+QRER - D3
+
+RDY - D5
+GO  - D4
